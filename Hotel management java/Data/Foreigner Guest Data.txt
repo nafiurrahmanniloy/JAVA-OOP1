@@ -1,0 +1,23 @@
+
+Data for Foreigner X Check in
+Name : Zahin
+Phone number : 1.78907102E9
+Passport Number : 2.2464471E7
+Nationality : Mongolian
+
+Data for Foreigner X Check in
+Name : Emma Watson
+Phone number : 8.88111222E8
+Passport Number : 5678937.0
+Nationality : Italian
+
+Foreigner Data X Check Out
+Phone Number : 8.88111222E8
+
+ 
+
+Data for Foreigner X Check in
+Name : jj
+Phone number : 3332.0
+Passport Number : 2324.0
+Nationality :  India

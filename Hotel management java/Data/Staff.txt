@@ -1,0 +1,16 @@
+
+Data for Staff 
+ID : 2222
+Name : Niloy
+Educational Background : HSC
+Salary : 15000.0
+Nationality : BD
+Home Town : MYM
+
+Data for Staff 
+ID : 123
+Name : Prithoy
+Educational Background : 8 pass
+Salary : 13000.0
+Nationality : BD
+Home Town : Cumilla

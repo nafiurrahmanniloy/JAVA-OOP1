@@ -1,0 +1,18 @@
+ 
+Data for Manager 
+ID : 456789
+Name :Artimis
+Educational Background : HSC
+Salary :70000.0
+Nationality : Nepali
+Home Town : Annoponna Base camp
+
+
+
+Data for Manager 
+ID : 223
+Name : aa
+Educational Background : Hsc
+Salary : 4500.0
+Nationality : Bangladesh
+Home Town : Dhaka
