@@ -1,0 +1,10 @@
+               ********** Problems *************
+a.Take n number of values in an array and display in the same order and reverse order by writing a Java program.
+
+b.Write a Java program that takes N number of values in an array and display the sum of all array elements.
+
+c.Take n number of values in an array and copy the elements into an-other array and display both array elements by writing  a Java program.
+
+d.Take n number of values in an array and find the number of   duplicate values entered in the array by writing a Java program.
+
+e.Take n number of values in an array and find the Largest number entered in the array by writing a Java program.
